@@ -17,7 +17,7 @@ This repository contains the code and methodology used for our study presented a
 ## Installation
 
 ```bash
-git clone https://github.com/yiting-tom/GViG.git
+git clone https://github.com/IKMLab/GViG.git
 make setup_env
 ```
 
